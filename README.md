@@ -14,5 +14,7 @@ This repository contains descriptions and graphics of some of the features I've 
 
 [Developing an abstract subsystem framework](subsystems/README.md)
 
+[Computer vision based navigation](vision/README.md)
+
 **NOTE:**
 Some sections may contain sections of code used to generate the visualizations but no embedded code will be posted to this repository.
